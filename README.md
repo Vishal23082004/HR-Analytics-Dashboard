@@ -8,18 +8,11 @@ targeted retention strategies.
 – Correlated tenure and education level to pinpoint high-risk attrition periods and roles, providing actionable retention
 insights to leadership.
 
-3. Technology
-The dashboard was built using the following tools and technologies:
-
-Power BI Desktop Main data visualization platform used for report creation.
-
-Power Query Data transformation and cleaning layer for reshaping and preparing the data.
-
-DAX (Data Analysis Expressions) Used for calculated measures, dynamic visuals, and conditional logic.
-
-Data Modeling Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
-
-File Format .pbix for development and .png for dashboard previews.
+3. Example: The dashboard was built using the following tools and technologies:
+• 📊 Power BI Desktop – Main data visualization platform used for report creation.
+• 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
 
 4.Data Source
 Getting Task in internship and data 
@@ -29,3 +22,5 @@ The best dashboard explanation project
 Business Problem 
 Goal of the dashboard
 Business impact and insight
+
+
